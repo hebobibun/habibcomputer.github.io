@@ -58,7 +58,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
+    background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #03C988  100%);
     margin: 12px auto;
     padding-top:30px;
     padding-bottom: 30px;
