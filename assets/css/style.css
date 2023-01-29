@@ -58,7 +58,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to right, #092a38 25%, #087aaf  51%, #03C9B1  100%);
+    background-image: linear-gradient(to right, #072531 0%, #092a38 25%, #087aaf  51%, #03C9B1  100%);
     margin: 12px auto;
     padding-top:30px;
     padding-bottom: 30px;
@@ -88,7 +88,7 @@ body{
         height: 50px;
         box-sizing: border-box;
         align-items: center;
-        background-image: linear-gradient(to right, 092a38 25%, #087aaf  51%, #03C9B1  100%);
+        background-image: linear-gradient(to right, #072531 0%, #092a38 25%, #087aaf  51%, #03C9B1  100%);
         margin: 10px auto;
         padding-top:30px;
         padding-bottom: 30px;
@@ -126,7 +126,7 @@ body{
         height: 50px;
         box-sizing: border-box;
         align-items: center;
-        background-image: linear-gradient(to right, 092a38 25%, #087aaf  51%, #03C9B1  100%);
+        background-image: linear-gradient(to right, #072531 0%, #092a38 25%, #087aaf  51%, #03C9B1  100%);
         margin: 10px auto;
         padding-top:30px;
         padding-bottom: 30px;
@@ -164,7 +164,7 @@ body{
         font-size: 14px;
         box-sizing: border-box;
         align-items: center;
-        background-image: linear-gradient(to right, 092a38 25%, #087aaf  51%, #03C9B1  100%);
+        background-image: linear-gradient(to right, #072531 0%, #092a38 25%, #087aaf  51%, #03C9B1  100%);
         margin: 10px auto;
         padding-top:30px;
         padding-bottom: 30px;
@@ -216,7 +216,7 @@ body{
             height: 40px;
             box-sizing: border-box;
             align-items: center;
-            background-image: linear-gradient(to right, 092a38 25%, #087aaf  51%, #03C9B1  100%);
+            background-image: linear-gradient(to right, #072531 0%, #092a38 25%, #087aaf  51%, #03C9B1  100%);
             margin: 10px auto;
             padding-top:30px;
             padding-bottom: 30px;
