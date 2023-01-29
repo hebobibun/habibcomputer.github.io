@@ -189,11 +189,11 @@ body{
         font-size:20px;
     }
     .bio{
-        font-size: 15px;
-        width: 233px;
-        margin: 0px auto;
-        font-weight: 200;
+        font-size: 12px;
         line-height: 150%;
+        width: 300px;
+        margin-bottom: 26px;
+        font-weight: 200;
     }
 
     @media screen and (max-width: 390px) {
