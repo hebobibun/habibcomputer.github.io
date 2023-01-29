@@ -36,13 +36,13 @@ body{
     border-radius: 50%;
 }
 .head{
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     width: 500px;
     margin-top: 20px;
 }
 .bio{
-    margin: 6px auto;
+    margin: 10px auto;
     font-size: 17px;
     font-weight: 300;
     width: 500px;
@@ -60,8 +60,8 @@ body{
     justify-content: center;
     background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
     margin: 12px auto;
-    padding-top:12px;
-    padding-bottom: 12px;
+    padding-top:30px;
+    padding-bottom: 30px;
     transition: 0.5s ease-in-out;
     font-size: 18px;
     background-size: 200% auto;          
@@ -90,8 +90,8 @@ body{
         align-items: center;
         background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
         margin: 10px auto;
-        padding-top:12px;
-        padding-bottom: 12px;
+        padding-top:30px;
+        padding-bottom: 30px;
         transition: 0.5s ease-in-out;
         background-size: 200% auto;          
         box-shadow: 0 0 20px rgb(31, 0, 50);
@@ -129,8 +129,8 @@ body{
         align-items: center;
         background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
         margin: 10px auto;
-        padding-top:12px;
-        padding-bottom: 12px;
+        padding-top:30px;
+        padding-bottom: 30px;
         transition: 0.5s ease-in-out;
         background-size: 200% auto;          
         box-shadow: 0 0 20px rgb(31, 0, 50);
@@ -168,8 +168,8 @@ body{
         align-items: center;
         background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
         margin: 10px auto;
-        padding-top:12px;
-        padding-bottom: 12px;
+        padding-top:30px;
+        padding-bottom: 30px;
         transition: 0.5s ease-in-out;
         background-size: 200% auto;          
         box-shadow: 0 0 20px rgb(31, 0, 50);
@@ -220,8 +220,8 @@ body{
             align-items: center;
             background-image: linear-gradient(to right, #0A2647 0%, #2C74B3  51%, #2caab3  100%);
             margin: 10px auto;
-            padding-top:12px;
-            padding-bottom: 12px;
+            padding-top:30px;
+            padding-bottom: 30px;
             transition: 0.5s ease-in-out;
             background-size: 200% auto;          
             box-shadow: 0 0 10px rgb(31, 0, 50);
