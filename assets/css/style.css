@@ -42,11 +42,11 @@ body{
     margin-top: 20px;
 }
 .bio{
-    margin: 10px auto;
+    margin: 2px auto;
     font-size: 17px;
     font-weight: 300;
     width: 500px;
-    margin-bottom: 20px;
+    margin-bottom: 26px;
     font-weight: 300;
     line-height: 150%;
 }
@@ -107,17 +107,16 @@ body{
         width:30%;
     }
     .head{
-        margin: 11px auto;
+        margin: 4px auto;
         font-size: 24px;
         width: 390px;
-        font-size:20px;
     }
     .bio{
         font-size: 15px;
         width: 350px;
         font-weight: 200;
         line-height: 150%;
-        margin-bottom: 20px;
+        margin-bottom: 26px;
     }
 }
 @media screen and (max-width: 450px){
@@ -149,14 +148,13 @@ body{
         margin: 11px auto;
         font-size: 24px;
         width: 390px;
-        font-size:20px;
     }
     .bio{
         font-size: 15px;
         width: 350px;
         font-weight: 200;
         line-height: 150%;
-        margin-bottom: 20px;
+        margin-bottom: 26px;
     }
 }
 @media screen and (max-width: 400px) {
@@ -193,7 +191,7 @@ body{
     .bio{
         font-size: 15px;
         width: 233px;
-        margin: 4px auto;
+        margin: 0px auto;
         font-weight: 200;
         line-height: 150%;
     }
@@ -240,13 +238,12 @@ body{
         .head{
             font-size: 24px;
             width: 390px;
-            font-size:20px;
         }
         .bio{
             font-size: 12px;
             line-height: 150%;
             width: 300px;
-            margin-bottom: 20px;
+            margin-bottom: 26px;
             font-weight: 200;
         }
     }
