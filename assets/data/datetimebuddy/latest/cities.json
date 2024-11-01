@@ -15494,7 +15494,7 @@
       "province": "Gourma",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Orodara",
@@ -15507,7 +15507,7 @@
       "province": "Kénédougou",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Solenzo",
@@ -15520,7 +15520,7 @@
       "province": "Banwa",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nouna",
@@ -15533,7 +15533,7 @@
       "province": "Kossi",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dedougou",
@@ -15546,7 +15546,7 @@
       "province": "Mou Houn",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gorom Gorom",
@@ -15559,7 +15559,7 @@
       "province": "Oudalan",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Djibo",
@@ -15572,7 +15572,7 @@
       "province": "Soum",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tougan",
@@ -15585,7 +15585,7 @@
       "province": "Sourou",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kombissiri",
@@ -15598,7 +15598,7 @@
       "province": "Bazéga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ziniare",
@@ -15611,7 +15611,7 @@
       "province": "Oubritenga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Yako",
@@ -15624,7 +15624,7 @@
       "province": "Passoré",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Reo",
@@ -15637,7 +15637,7 @@
       "province": "Sanguié",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Leo",
@@ -15650,7 +15650,7 @@
       "province": "Sissili",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sapouy",
@@ -15663,7 +15663,7 @@
       "province": "Ziro",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Boulsa",
@@ -15676,7 +15676,7 @@
       "province": "Namentenga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Zorgo",
@@ -15689,7 +15689,7 @@
       "province": "Ganzourgou",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koupela",
@@ -15702,7 +15702,7 @@
       "province": "Kouritenga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Po",
@@ -15715,7 +15715,7 @@
       "province": "Nahouri",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Manga",
@@ -15728,7 +15728,7 @@
       "province": "Zoundwéogo",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Diebougou",
@@ -15741,7 +15741,7 @@
       "province": "Bougouriba",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gaoua",
@@ -15754,7 +15754,7 @@
       "province": "Poni",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bogande",
@@ -15767,7 +15767,7 @@
       "province": "Gnagna",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dori",
@@ -15780,7 +15780,7 @@
       "province": "Séno",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sebba",
@@ -15793,7 +15793,7 @@
       "province": "Yagha",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Diapaga",
@@ -15806,7 +15806,7 @@
       "province": "Tapoa",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koudougou",
@@ -15819,7 +15819,7 @@
       "province": "Boulkiemdé",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ouahigouya",
@@ -15832,7 +15832,7 @@
       "province": "Yatenga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kaya",
@@ -15845,7 +15845,7 @@
       "province": "Sanmatenga",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tenkodogo",
@@ -15858,7 +15858,7 @@
       "province": "Boulgou",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Banfora",
@@ -15871,7 +15871,7 @@
       "province": "Komoé",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bobo Dioulasso",
@@ -15884,7 +15884,7 @@
       "province": "Houet",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ouagadougou",
@@ -15897,7 +15897,7 @@
       "province": "Kadiogo",
       "timezone": "Africa/Ouagadougou",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Cankuzo",
@@ -35072,7 +35072,7 @@
       "province": "Brong Ahafo",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tamale",
@@ -35085,7 +35085,7 @@
       "province": "Northern",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Yendi",
@@ -35098,7 +35098,7 @@
       "province": "Northern",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bolgatanga",
@@ -35111,7 +35111,7 @@
       "province": "Upper East",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bawku",
@@ -35124,7 +35124,7 @@
       "province": "Upper East",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Wa",
@@ -35137,7 +35137,7 @@
       "province": "Upper West",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Obuasi",
@@ -35150,7 +35150,7 @@
       "province": "Ashanti",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Berekum",
@@ -35163,7 +35163,7 @@
       "province": "Brong Ahafo",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Winneba",
@@ -35176,7 +35176,7 @@
       "province": "Central",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Cape Coast",
@@ -35189,7 +35189,7 @@
       "province": "Central",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nkawkaw",
@@ -35202,7 +35202,7 @@
       "province": "Eastern",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koforidua",
@@ -35215,7 +35215,7 @@
       "province": "Eastern",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tema",
@@ -35228,7 +35228,7 @@
       "province": "Greater Accra",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ho",
@@ -35241,7 +35241,7 @@
       "province": "Volta",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kumasi",
@@ -35254,7 +35254,7 @@
       "province": "Ashanti",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sekondi",
@@ -35267,7 +35267,7 @@
       "province": "Western",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Accra",
@@ -35280,7 +35280,7 @@
       "province": "Greater Accra",
       "timezone": "Africa/Accra",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gibraltar",
@@ -35761,7 +35761,7 @@
       "province": "Kommuneqarfik Sermersooq",
       "timezone": "America/Danmarkshavn",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Timmiarmiut",
@@ -36346,7 +36346,7 @@
       "province": "Labe",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tongue",
@@ -36359,7 +36359,7 @@
       "province": "Labe",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kouroussa",
@@ -36372,7 +36372,7 @@
       "province": "Kankan",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Pita",
@@ -36385,7 +36385,7 @@
       "province": "Mamou",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dalaba",
@@ -36398,7 +36398,7 @@
       "province": "Mamou",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Boffa",
@@ -36411,7 +36411,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koundara",
@@ -36424,7 +36424,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gaoual",
@@ -36437,7 +36437,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Telimele",
@@ -36450,7 +36450,7 @@
       "province": "Kindia",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Forecariah",
@@ -36463,7 +36463,7 @@
       "province": "Kindia",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Beyla",
@@ -36476,7 +36476,7 @@
       "province": "Nzerekore",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gueckedou",
@@ -36489,7 +36489,7 @@
       "province": "Nzerekore",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dinguiraye",
@@ -36502,7 +36502,7 @@
       "province": "Faranah",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dabola",
@@ -36515,7 +36515,7 @@
       "province": "Faranah",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kerouane",
@@ -36528,7 +36528,7 @@
       "province": "Kankan",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Siguiri",
@@ -36541,7 +36541,7 @@
       "province": "Kankan",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Mamou",
@@ -36554,7 +36554,7 @@
       "province": "Mamou",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kamsar",
@@ -36567,7 +36567,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Fria",
@@ -36580,7 +36580,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Macenta",
@@ -36593,7 +36593,7 @@
       "province": "Nzerekore",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Yomou",
@@ -36606,7 +36606,7 @@
       "province": "Nzerekore",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Faranah",
@@ -36619,7 +36619,7 @@
       "province": "Faranah",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kissidougou",
@@ -36632,7 +36632,7 @@
       "province": "Faranah",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Labe",
@@ -36645,7 +36645,7 @@
       "province": "Labe",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Boke",
@@ -36658,7 +36658,7 @@
       "province": "Boke",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kindia",
@@ -36671,7 +36671,7 @@
       "province": "Kindia",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kankan",
@@ -36684,7 +36684,7 @@
       "province": "Kankan",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nzerekore",
@@ -36697,7 +36697,7 @@
       "province": "Nzerekore",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Conakry",
@@ -36710,7 +36710,7 @@
       "province": "Conakry",
       "timezone": "Africa/Conakry",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Cacheu",
@@ -36723,7 +36723,7 @@
       "province": "Cacheu",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Farim",
@@ -36736,7 +36736,7 @@
       "province": "Oio",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Fulacunda",
@@ -36749,7 +36749,7 @@
       "province": "Quinara",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gabu",
@@ -36762,7 +36762,7 @@
       "province": "Gabú",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Catio",
@@ -36775,7 +36775,7 @@
       "province": "Tombali",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bolama",
@@ -36788,7 +36788,7 @@
       "province": "Bolama",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bafata",
@@ -36801,7 +36801,7 @@
       "province": "Bafatá",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bissau",
@@ -36814,7 +36814,7 @@
       "province": "Bissau",
       "timezone": "Africa/Bissau",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Corriverton",
@@ -37594,7 +37594,7 @@
       "province": "Vesturland",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Egilsstaðir",
@@ -37607,7 +37607,7 @@
       "province": "Austur-Hérað",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sauðárkrókur",
@@ -37620,7 +37620,7 @@
       "province": "Akrahreppur",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Selfoss",
@@ -37633,7 +37633,7 @@
       "province": "Biskupstungnahreppur",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Hofn",
@@ -37646,7 +37646,7 @@
       "province": "Sveitarfélagið Hornafjörður",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ísafjörður",
@@ -37659,7 +37659,7 @@
       "province": "Vestfirðir",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Akureyi",
@@ -37672,7 +37672,7 @@
       "province": "Akureyri",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Keflavík",
@@ -37685,7 +37685,7 @@
       "province": "Suðurnes",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Reykjavík",
@@ -37698,7 +37698,7 @@
       "province": "Suðurnes",
       "timezone": "Atlantic/Reykjavik",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Panaji",
@@ -44016,7 +44016,7 @@
       "province": "Bafing",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bouafle",
@@ -44029,7 +44029,7 @@
       "province": "Marahoué",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Divo",
@@ -44042,7 +44042,7 @@
       "province": "Sud-Bandama",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Toumodi",
@@ -44055,7 +44055,7 @@
       "province": "Lacs",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Aboisso",
@@ -44068,7 +44068,7 @@
       "province": "Sud-Comoé",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ferkessedougou",
@@ -44081,7 +44081,7 @@
       "province": "Savanes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Odienne",
@@ -44094,7 +44094,7 @@
       "province": "Denguélé",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Man",
@@ -44107,7 +44107,7 @@
       "province": "Dix-Huit Montagnes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Seguela",
@@ -44120,7 +44120,7 @@
       "province": "Worodougou",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gagnoa",
@@ -44133,7 +44133,7 @@
       "province": "Fromager",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Soubre",
@@ -44146,7 +44146,7 @@
       "province": "Bas-Sassandra",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "San-Pedro",
@@ -44159,7 +44159,7 @@
       "province": "Bas-Sassandra",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sassandra",
@@ -44172,7 +44172,7 @@
       "province": "Bas-Sassandra",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bondoukou",
@@ -44185,7 +44185,7 @@
       "province": "Zanzan",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Agboville",
@@ -44198,7 +44198,7 @@
       "province": "Agnéby",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dimbokro",
@@ -44211,7 +44211,7 @@
       "province": "N'zi-Comoé",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Grand Bassam",
@@ -44224,7 +44224,7 @@
       "province": "Lagunes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dabou",
@@ -44237,7 +44237,7 @@
       "province": "Lagunes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Guiglo",
@@ -44250,7 +44250,7 @@
       "province": "Moyen-Cavally",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Abengourou",
@@ -44263,7 +44263,7 @@
       "province": "Moyen-Comoe",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Korhogo",
@@ -44276,7 +44276,7 @@
       "province": "Savanes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Daloa",
@@ -44289,7 +44289,7 @@
       "province": "Haut-Sassandra",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bouake",
@@ -44302,7 +44302,7 @@
       "province": "Vallée du Bandama",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Yamoussoukro",
@@ -44315,7 +44315,7 @@
       "province": "Lacs",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Abidjan",
@@ -44328,7 +44328,7 @@
       "province": "Lagunes",
       "timezone": "Africa/Abidjan",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Lucea",
@@ -47981,7 +47981,7 @@
       "province": "GrandKru",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Voinjama",
@@ -47994,7 +47994,7 @@
       "province": "Lofa",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bensonville",
@@ -48007,7 +48007,7 @@
       "province": "Montserrado",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kakata",
@@ -48020,7 +48020,7 @@
       "province": "Margibi",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sanniquellie",
@@ -48033,7 +48033,7 @@
       "province": "Nimba",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Rivercess",
@@ -48046,7 +48046,7 @@
       "province": "River Cess",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Harper",
@@ -48060,7 +48060,7 @@
       "state_ansi": "MD",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gbarnga",
@@ -48073,7 +48073,7 @@
       "province": "Bong",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Zwedru",
@@ -48086,7 +48086,7 @@
       "province": "GrandGedeh",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Greenville",
@@ -48099,7 +48099,7 @@
       "province": "Sinoe",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Buchanan",
@@ -48112,7 +48112,7 @@
       "province": "Grand Bassa",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Robertsport",
@@ -48125,7 +48125,7 @@
       "province": "Grand Cape Mount",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Monrovia",
@@ -48138,7 +48138,7 @@
       "province": "Montserrado",
       "timezone": "Africa/Monrovia",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dirj",
@@ -49399,7 +49399,7 @@
       "province": "Perlis",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kuala Lipis",
@@ -49412,7 +49412,7 @@
       "province": "Pahang",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Shah Alam",
@@ -49425,7 +49425,7 @@
       "province": "Selangor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Teluk Intan",
@@ -49438,7 +49438,7 @@
       "province": "Perak",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Butterworth",
@@ -49451,7 +49451,7 @@
       "province": "Pulau Pinang",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Sungai Petani",
@@ -49464,7 +49464,7 @@
       "province": "Kedah",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Alor Setar",
@@ -49477,7 +49477,7 @@
       "province": "Kedah",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Muar",
@@ -49490,7 +49490,7 @@
       "province": "Johor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Batu Pahat",
@@ -49503,7 +49503,7 @@
       "province": "Johor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Keluang",
@@ -49516,7 +49516,7 @@
       "province": "Johor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Seremban",
@@ -49529,7 +49529,7 @@
       "province": "Negeri Sembilan",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Raub",
@@ -49542,7 +49542,7 @@
       "province": "Pahang",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Chukai",
@@ -49555,7 +49555,7 @@
       "province": "Trengganu",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kuala Terengganu",
@@ -49568,7 +49568,7 @@
       "province": "Trengganu",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Lahad Datu",
@@ -49581,7 +49581,7 @@
       "province": "Sabah",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Bintulu",
@@ -49594,7 +49594,7 @@
       "province": "Sarawak",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Miri",
@@ -49607,7 +49607,7 @@
       "province": "Sarawak",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Johor Bahru",
@@ -49620,7 +49620,7 @@
       "province": "Johor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kelang",
@@ -49633,7 +49633,7 @@
       "province": "Selangor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Taiping",
@@ -49646,7 +49646,7 @@
       "province": "Perak",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Ipoh",
@@ -49659,7 +49659,7 @@
       "province": "Perak",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kota Baharu",
@@ -49672,7 +49672,7 @@
       "province": "Kelantan",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Malacca",
@@ -49685,7 +49685,7 @@
       "province": "Melaka",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kuantan",
@@ -49698,7 +49698,7 @@
       "province": "Pahang",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Tawau",
@@ -49711,7 +49711,7 @@
       "province": "Sabah",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Sandakan",
@@ -49724,7 +49724,7 @@
       "province": "Sabah",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kota Kinabalu",
@@ -49737,7 +49737,7 @@
       "province": "Sabah",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Sibu",
@@ -49750,7 +49750,7 @@
       "province": "Sarawak",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "George Town",
@@ -49763,7 +49763,7 @@
       "province": "Pulau Pinang",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kuching",
@@ -49776,7 +49776,7 @@
       "province": "Sarawak",
       "timezone": "Asia/Kuching",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Putrajaya",
@@ -49789,7 +49789,7 @@
       "province": "Selangor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Kuala Lumpur",
@@ -49802,7 +49802,7 @@
       "province": "Selangor",
       "timezone": "Asia/Kuala_Lumpur",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "MYT"
     },
     {
       "city": "Male",
@@ -49828,7 +49828,7 @@
       "province": "Timbuktu",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Aguelhok",
@@ -49841,7 +49841,7 @@
       "province": "Kidal",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bourem",
@@ -49854,7 +49854,7 @@
       "province": "Gao",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kati",
@@ -49867,7 +49867,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Banamba",
@@ -49880,7 +49880,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kangaba",
@@ -49893,7 +49893,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nioro du Sahel",
@@ -49906,7 +49906,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bafoulabe",
@@ -49919,7 +49919,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Satadougou",
@@ -49932,7 +49932,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Yelimane",
@@ -49945,7 +49945,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kita",
@@ -49958,7 +49958,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koutiala",
@@ -49971,7 +49971,7 @@
       "province": "Sikasso",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sikasso",
@@ -49984,7 +49984,7 @@
       "province": "Sikasso",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bougouni",
@@ -49997,7 +49997,7 @@
       "province": "Sikasso",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Markala",
@@ -50010,7 +50010,7 @@
       "province": "Ségou",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sokolo",
@@ -50023,7 +50023,7 @@
       "province": "Ségou",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "San",
@@ -50036,7 +50036,7 @@
       "province": "Ségou",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Taoudenni",
@@ -50049,7 +50049,7 @@
       "province": "Timbuktu",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Araouane",
@@ -50062,7 +50062,7 @@
       "province": "Timbuktu",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tessalit",
@@ -50075,7 +50075,7 @@
       "province": "Kidal",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Menaka",
@@ -50088,7 +50088,7 @@
       "province": "Gao",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nara",
@@ -50101,7 +50101,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koulikoro",
@@ -50114,7 +50114,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Mopti",
@@ -50127,7 +50127,7 @@
       "province": "Mopti",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Gao",
@@ -50140,7 +50140,7 @@
       "province": "Gao",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kayes",
@@ -50153,7 +50153,7 @@
       "province": "Kayes",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Segou",
@@ -50166,7 +50166,7 @@
       "province": "Ségou",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Timbuktu",
@@ -50179,7 +50179,7 @@
       "province": "Timbuktu",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bamako",
@@ -50192,7 +50192,7 @@
       "province": "Bamako",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Djenne",
@@ -50205,7 +50205,7 @@
       "province": "Mopti",
       "timezone": "Africa/Bamako",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Valletta",
@@ -50244,7 +50244,7 @@
       "province": "Tiris Zemmour",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Aleg",
@@ -50257,7 +50257,7 @@
       "province": "Brakna",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Akjoujt",
@@ -50270,7 +50270,7 @@
       "province": "Inchiri",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Zouirat",
@@ -50283,7 +50283,7 @@
       "province": "Tiris Zemmour",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Chegga",
@@ -50296,7 +50296,7 @@
       "province": "Tiris Zemmour",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Magta Lajar",
@@ -50309,7 +50309,7 @@
       "province": "Brakna",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bogue",
@@ -50322,7 +50322,7 @@
       "province": "Brakna",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Boutilimit",
@@ -50335,7 +50335,7 @@
       "province": "Trarza",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Selibaby",
@@ -50348,7 +50348,7 @@
       "province": "Guidimaka",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Timbedra",
@@ -50361,7 +50361,7 @@
       "province": "Hodh ech Chargui",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nema",
@@ -50374,7 +50374,7 @@
       "province": "Hodh ech Chargui",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Saint-Louis",
@@ -50387,7 +50387,7 @@
       "province": "Trarza",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tidjikdja",
@@ -50400,7 +50400,7 @@
       "province": "Tagant",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bir Mogrein",
@@ -50413,7 +50413,7 @@
       "province": "Tiris Zemmour",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Rosso",
@@ -50426,7 +50426,7 @@
       "province": "Trarza",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kiffa",
@@ -50439,7 +50439,7 @@
       "province": "Assaba",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nouadhibou",
@@ -50452,7 +50452,7 @@
       "province": "Dakhlet Nouadhibou",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ayoun el Atrous",
@@ -50465,7 +50465,7 @@
       "province": "Hodh el Gharbi",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Nouakchott",
@@ -50478,7 +50478,7 @@
       "province": "Nouakchott",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Atar",
@@ -50491,7 +50491,7 @@
       "province": "Adrar",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Curepipe",
@@ -70355,7 +70355,7 @@
       "province": "",
       "timezone": "Africa/Sao_Tome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sao Tome",
@@ -70368,7 +70368,7 @@
       "province": "",
       "timezone": "Africa/Sao_Tome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "An Nabk",
@@ -70784,7 +70784,7 @@
       "province": "Fatick",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Diourbel",
@@ -70797,7 +70797,7 @@
       "province": "Diourbel",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Louga",
@@ -70810,7 +70810,7 @@
       "province": "Louga",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Thies",
@@ -70823,7 +70823,7 @@
       "province": "Thiès",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kolda",
@@ -70836,7 +70836,7 @@
       "province": "Kolda",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Tambacounda",
@@ -70849,7 +70849,7 @@
       "province": "Tambacounda",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kedougou",
@@ -70862,7 +70862,7 @@
       "province": "Tambacounda",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Ziguinchor",
@@ -70875,7 +70875,7 @@
       "province": "Ziguinchor",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kaolack",
@@ -70888,7 +70888,7 @@
       "province": "Kaolack",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kaedi",
@@ -70901,7 +70901,7 @@
       "province": "Matam",
       "timezone": "Africa/Nouakchott",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Dakar",
@@ -70914,7 +70914,7 @@
       "province": "Dakar",
       "timezone": "Africa/Dakar",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Subotica",
@@ -71031,7 +71031,7 @@
       "province": "Northern",
       "timezone": "Africa/Freetown",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Koidu",
@@ -71044,7 +71044,7 @@
       "province": "Eastern",
       "timezone": "Africa/Freetown",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kenema",
@@ -71057,7 +71057,7 @@
       "province": "Eastern",
       "timezone": "Africa/Freetown",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bo",
@@ -71070,7 +71070,7 @@
       "province": "Southern",
       "timezone": "Africa/Freetown",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Freetown",
@@ -71083,7 +71083,7 @@
       "province": "Western",
       "timezone": "Africa/Freetown",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Singapore",
@@ -77973,7 +77973,7 @@
       "province": "Maccarthy Island",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Basse Santa Su",
@@ -77986,7 +77986,7 @@
       "province": "Upper River",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kerewan",
@@ -77999,7 +77999,7 @@
       "province": "Lower River",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Mansa Konko",
@@ -78012,7 +78012,7 @@
       "province": "Lower River",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bansang",
@@ -78025,7 +78025,7 @@
       "province": "Maccarthy Island",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Brikama",
@@ -78038,7 +78038,7 @@
       "province": "Banjul",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Banjul",
@@ -78051,7 +78051,7 @@
       "province": "Banjul",
       "timezone": "Africa/Banjul",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Bassar",
@@ -78064,7 +78064,7 @@
       "province": "Kara",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sotouboua",
@@ -78077,7 +78077,7 @@
       "province": "Centre",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Kpalime",
@@ -78090,7 +78090,7 @@
       "province": "Plateaux",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Sokode",
@@ -78103,7 +78103,7 @@
       "province": "Centre",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Mango",
@@ -78116,7 +78116,7 @@
       "province": "Savanes",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Atakpame",
@@ -78129,7 +78129,7 @@
       "province": "Plateaux",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Lome",
@@ -78142,7 +78142,7 @@
       "province": "Maritime",
       "timezone": "Africa/Lome",
       "offset": "+00:00",
-      "tzCode": "+00:00"
+      "tzCode": "GMT"
     },
     {
       "city": "Neiafu",
